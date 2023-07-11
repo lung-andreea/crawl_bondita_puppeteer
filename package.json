@@ -1,0 +1,19 @@
+{
+  "name": "crawl_bondita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crawler": "^1.4.0",
+    "nodemon": "^2.0.22",
+    "puppeteer": "^20.8.0",
+    "prettier": "^3.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
